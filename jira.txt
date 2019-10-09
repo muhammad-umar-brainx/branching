@@ -1,0 +1,16 @@
+*Jira Shortcuts*
+To Work with individual issue:
+   C Create ticket
+   A Assign issue to someone
+   I Issue assigned to me
+   B Open Issue comment
+Navigate across JIRA
+   G then I Find issues
+   G then P Browse to project
+   G then A go to Jira board
+   / Search projects
+   \ Stared and recent
+Boast Agility
+   1 go to backlog
+   2 go to active log
+   3 go to report
